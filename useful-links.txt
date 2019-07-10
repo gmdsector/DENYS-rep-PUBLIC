@@ -1,0 +1,6 @@
+#register on Linux Academy
+https://linuxacademy.com
+
+#learn info from course about Git
+#use link below to enroll the course:
+https://linuxacademy.com/cp/courses/lesson/course/3551/lesson/7/module/289 
