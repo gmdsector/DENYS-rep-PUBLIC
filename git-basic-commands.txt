@@ -1,0 +1,26 @@
+
+###Understanding Git Logging#########
+#####Git Log#####
+git log
+git log --oneline
+#more detail information
+git lop -p
+#info on a particular file:
+git log -- <filename>
+git log --oneline <filename>
+
+#graph printed information
+git log --graph --decorate
+#note: this is useful for using multiple branches using
+
+####working with Branches###
+############################
+#Create branch
+git branch <new branch>
+
+#Begin working in the new branch:
+git checkout <branch>
+
+#Do both at once
+git checkout -b <new branch>
+
