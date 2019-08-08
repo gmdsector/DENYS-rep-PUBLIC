@@ -8,4 +8,6 @@ https://linuxacademy.com/cp/courses/lesson/course/3551/lesson/7/module/289
 #learn info about Linux RedHat RHCSA (EX200)
 use link below to enroll the RHCSA(EX200) course:
 https://linuxacademy.com/cp/modules/view/id/39
- 
+
+#learn info about VIM redactor
+http://derekwyatt.org/vim/tutorials/novice/#Basic_Movement_1
